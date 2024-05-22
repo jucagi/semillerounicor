@@ -1,4 +1,4 @@
 <script></script>
 <template>
-  <div></div>
+  <h1>Bienvenidos</h1>
 </template>
