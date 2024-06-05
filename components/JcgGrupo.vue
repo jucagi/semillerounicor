@@ -1,12 +1,10 @@
 <script setup>
-const grupo = {
-    nombre: "EduTLan",
-    Facultad: "Educación y Ciencias Humanas",
-    semilleros: [
-            "AVI",
-            "Laboratorio IA",
-    ]
-}
+const props = defineProps(
+    {
+        grupo: Object,
+    }
+)
+
 </script>
 <template>
     <Card style="width: 25rem; overflow: hidden">
