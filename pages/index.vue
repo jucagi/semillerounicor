@@ -1,6 +1,7 @@
-<script></script>
+
 <template>
   <h1>Bienvenidos</h1>
+  <h3><NuxtLink to="jgGrupos">Grupos de Juan Carlos</NuxtLink></h3>
   <Card>
     <template #title>Simple Card</template>
     <template #content>

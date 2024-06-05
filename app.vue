@@ -1,8 +1,8 @@
 <script setup></script>
 <template>
   <div>
-    <Toast />
-    <ConfirmDialog />
+    <!-- <Toast />
+    <ConfirmDialog /> -->
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
